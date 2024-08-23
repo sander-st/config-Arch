@@ -1,0 +1,63 @@
+{
+  "workbench.colorTheme": "Monokai",
+  "editor.tabSize": 2,
+  "editor.renderWhitespace": "none",
+  "terminal.integrated.fontFamily": "Hack Nerd Font",
+  "bracketPairColorizer.depreciation-notice": false,
+  "editor.fontFamily": "Cascadia Code",
+  "editor.fontLigatures": "'ss01', 'ss02', 'ss03', 'ss04', 'ss05', 'ss06', 'zero', 'onum'",
+  "git.autofetch": true,
+  "editor.minimap.autohide": true,
+  "editor.wordWrap": "on",
+  "tabnine.experimentalAutoImports": true,
+  "[html]": {
+    "editor.defaultFormatter": "esbenp.prettier-vscode"
+  },
+  "editor.formatOnSave": true,
+  "editor.defaultFormatter": "esbenp.prettier-vscode",
+  "prettier.ignorePath": ".prettierignore",
+  "prettier.bracketSameLine": true,
+  "terminal.integrated.cursorStyle": "line",
+  "editor.cursorBlinking": "expand",
+  "editor.guides.bracketPairs": true,
+  "editor.bracketPairColorization.independentColorPoolPerBracketType": true,
+  "editor.minimap.enabled": false,
+  "explorer.confirmDelete": false,
+  "terminal.integrated.env.linux": {},
+  // "console-ninja.featureSet": "Community",
+  // mover la barra de actividades
+  "workbench.sideBar.location": "right",
+  // barra de trabajo
+  // "workbench.editor.showTabs": "single",
+  "workbench.colorCustomizations": {},
+  "tailwindCSS.suggestions": true,
+  // "tailwindCSS.includeLanguages": {
+  //   "html": "html",
+  //   "javascript": "javascript",
+  //   "javascriptreact": "javascriptreact"
+  // },
+  // "editor.quickSuggestions": {
+  //   // "other": "on",
+  //   "comments": true,
+  //   "strings": true
+  // }
+  "editor.tokenColorCustomizations": {
+    "textMateRules": [
+      {
+        "scope": "entity.name.tag.js.jsx",
+        "settings": {
+          "foreground": "#D28381"
+        }
+      }
+    ]
+  },
+  "scm.experimental.showHistoryGraph": true,
+  "scm.providerCountBadge": "visible",
+  "window.customTitleBarVisibility": "never",
+  "window.menuBarVisibility": "toggle",
+  "workbench.activityBar.location": "default",
+  "editor.linkedEditing": true,
+  "workbench.productIconTheme": "fluent-icons",
+  "symbols.hidesExplorerArrows": false,
+  "workbench.iconTheme": "vscode-icons"
+}

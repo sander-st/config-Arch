@@ -1,0 +1,6 @@
+set linenumbers
+set autoindent
+set tabsize 2
+set mouse
+set titlecolor black,cyan
+set numbercolor black,cyan
